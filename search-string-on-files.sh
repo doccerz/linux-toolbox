@@ -1,0 +1,1 @@
+grep -rnw ./  -e 'tpmssvc' --exclude='*.txt, *.log*'
