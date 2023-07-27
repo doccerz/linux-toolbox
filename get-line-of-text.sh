@@ -1,0 +1,1 @@
+grep -n -2 your_searched_for_string  your_large_text_file

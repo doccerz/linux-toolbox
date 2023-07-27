@@ -1,0 +1,1 @@
+wc -l $file | awk '{print $1}'
